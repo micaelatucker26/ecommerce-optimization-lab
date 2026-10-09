@@ -1,6 +1,6 @@
 # ecommerce-optimization-lab
 Ecommerce Optimization Lab
-#
+
 An end-to-end ecommerce operations and optimization project demonstrating:
 
 HTML
