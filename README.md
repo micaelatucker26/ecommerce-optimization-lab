@@ -45,9 +45,6 @@ Technologies
 - CSS3
 - JavaScript
 - Git
-
-GitHub
-
-Excel
-
-Markdown
+- GitHub
+- Excel
+- Markdown
