@@ -14,6 +14,7 @@ Accessibility
 Content Management Workflows
 Digital Marketing Operations
 Project Objectives
+
 Simulate real-world responsibilities of an Ecommerce Web Development Specialist by:
 
 Managing website updates
